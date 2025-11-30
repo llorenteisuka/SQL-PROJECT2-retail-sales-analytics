@@ -5,14 +5,14 @@ Absolutely! Here’s a **clean, polished, and professional version** of your tex
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 Analyze a retail company’s sales data using **MySQL**.
 The data was originally in Excel files, then **imported into MySQL** for cleaning and analysis, and finally **exported back to Excel** to build a professional dashboard.
 
 ---
 
-## 🛠 Tools
+## Tools
 
 * **MySQL** → Data cleaning, transformation, and analysis
 * **Excel** → Dashboard creation and visualizations
@@ -20,7 +20,7 @@ The data was originally in Excel files, then **imported into MySQL** for cleanin
 
 ---
 
-## 📌 Steps
+## Steps
 
 1. **Explored the dataset in Excel**
 
@@ -60,7 +60,7 @@ The data was originally in Excel files, then **imported into MySQL** for cleanin
 
 ---
 
-## 🙌 Author
+## Author
 
 **Lucia Llorente Isuka**
 
