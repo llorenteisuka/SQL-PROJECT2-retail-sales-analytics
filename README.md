@@ -1,8 +1,6 @@
 # SQL-PROJECT2-retail-sales-analytics
 this is a project worked with my sql november class
 
-Absolutely! Here’s a **clean, polished, and professional version** of your text for your README or report:
-
 ---
 
 ## Objectives
